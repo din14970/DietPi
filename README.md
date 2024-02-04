@@ -272,6 +272,7 @@ Links to hardware and software manufacturers, sources and build instructions use
 - [Grafana](https://github.com/grafana/grafana)
 - [Clonezilla](https://gitlab.com/stevenshiau/clonezilla)
 - [Gitea](https://github.com/go-gitea/gitea)
+- [Forgejo](https://codeberg.org/forgejo/forgejo)
 - [Gogs](https://github.com/gogs/gogs)
 - [Home Assistant](https://github.com/home-assistant/core)
 - [TasmoAdmin](https://github.com/reloxx13/TasmoAdmin)
